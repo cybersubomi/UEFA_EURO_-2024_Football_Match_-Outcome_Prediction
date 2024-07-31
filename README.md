@@ -1,1 +1,1 @@
-# UEFA_EURO_-2024_Football_Match_-Outcome_Prediction
+# UEFA_EURO_2024_Football_Match_Outcome_Prediction
